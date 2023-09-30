@@ -1,4 +1,4 @@
-<img align="center" width="600" src="https://github.com/REKIIXS/brc-20/blob/main/AID.jpg">
+<img align="center" width="600" src="https://github.com/Davitcoin/aid/blob/main/AID.jpg">
 
 # AID
 let's be disruptive, functional, and safe
